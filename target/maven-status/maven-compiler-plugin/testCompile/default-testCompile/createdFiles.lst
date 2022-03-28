@@ -1,7 +1,0 @@
-stepdefinitions/ApiTestSteps.class
-stepdefinitions/UiTestSteps.class
-testrunner/BaseTest.class
-utility/Util.class
-pageobjects/uiTestPage.class
-pageobjects/apiTestObjects.class
-testrunner/RunnerTest.class

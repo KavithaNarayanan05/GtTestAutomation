@@ -1,3 +1,0 @@
-
-@uitest
-Scenario Outline: To validate the search functionality on Gumtree webUI [90m# src/test/java/features/UiTest.feature:16[0m
