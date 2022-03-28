@@ -4,9 +4,9 @@
 ## Gumtree Test automation challenge
 This coding challenge comprises of two tasks - UI Test automation and API Test automation
 
-##Github Project link
+## Github Project link
 
-[![js-standard-style](https://img.shields.io/badge/GitHub-JavaProject-brightgreen.svg?style=flat)](https://github.com/KavithaNarayanan05/GtTestAutomation)
+[![js-standard-style](https://img.shields.io/badge/GitHub-JavaProject-brightgreen.svg?style=flat)](https://github.com/KavithaNarayanan05/GtTestAutomation/tree/main)
 
 ## Setup required
 * Install IDE like Eclipse or Intellij
@@ -17,7 +17,7 @@ This coding challenge comprises of two tasks - UI Test automation and API Test a
 ## Getting GtTestAutomation project on your machine
 * Use Terminal or cmd line tool to clone onto desired directory with following command -> git clone **https://github.com/KavithaNarayanan05/GtTestAutomation.git**
 * Alternately, use Github desktop to clone using the above URL
-* Can also be downloaded as a zip file -> https://github.com/KavithaNarayanan05/GtTestAutomation/archive/refs/heads/testk.zip
+* Can also be downloaded as a zip file -> https://github.com/KavithaNarayanan05/GtTestAutomation/archive/refs/heads/main.zip
 
 
 ## How to install and run the project ?
