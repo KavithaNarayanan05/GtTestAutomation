@@ -4,23 +4,22 @@
 ## Gumtree Test automation challenge
 This coding challenge comprises of two tasks - UI Test automation and API Test automation
 
-## Github Project link
+### Github Project link
 
 [![js-standard-style](https://img.shields.io/badge/GitHub-JavaProject-brightgreen.svg?style=flat)](https://github.com/KavithaNarayanan05/GtTestAutomation/tree/main)
 
-## Setup required
+### Setup required
 * Install IDE like Eclipse or Intellij
 * Install Cucumber/Gherkin plugins on IDE for viewing feature files
 * Install Apache Maven
 * Install Java Runtime v1.8
 
-## Getting GtTestAutomation project on your machine
+### Getting GtTestAutomation project on your machine
 * Use Terminal or cmd line tool to clone onto desired directory with following command -> git clone **https://github.com/KavithaNarayanan05/GtTestAutomation.git**
 * Alternately, use Github desktop to clone using the above URL
 * Can also be downloaded as a zip file -> https://github.com/KavithaNarayanan05/GtTestAutomation/archive/refs/heads/main.zip
 
-
-## How to install and run the project ?
+### How to install and run the project ?
 1. **Clone**/Download the remote repository(as mentioned above) onto your local machine
 2. Open your IDE and **launch** the project using File -> Open
 3. Open the Terminal window using View -> Tool Windows -> **Terminal**
@@ -33,10 +32,9 @@ This coding challenge comprises of two tasks - UI Test automation and API Test a
 10. Navigate to the following path -> target/cucumber-reports/**raw-cucumber-html-report.html**
 11. Right click on the .html report file and open with any desired browser -> _(this will show you the **Cucumber test report** of the executed scenarios)_
 
+### Tools and Techniques used
 
-## Tools and Techniques used
-
-### 1. UI Test Automation
+#### 1. UI Test Automation
 Using below set of frameworks and libraries, happy-path use-case of Gumtree search functionality has been automated
 * Selenium
 * Cucumber JVM
@@ -46,8 +44,7 @@ Using below set of frameworks and libraries, happy-path use-case of Gumtree sear
 
 The _UiTest.feature_ consists of BDD scenario with parameterization capability to run for different set of values.
 
-
-### 2.API Test Automation
+#### 2.API Test Automation
 Using following frameworks and libraries, API endpoint testing has been validated for happy-path and negative use-cases
 * Selenium REST-assured
 * Cucumber JVM
@@ -56,7 +53,7 @@ Using following frameworks and libraries, API endpoint testing has been validate
 
 The ApiTest.feature contains BDD scenarios to validate the response obtained from the REST API based on search query.
 
-## Folder Structure
+### Folder Structure
 The test folder structure _src/test/java/_ is made up of
  * **features** - contains all the cucumber feature files which can be run individually as well
  * **stepdefinitions** - contains steps implementing the business use case
@@ -64,12 +61,12 @@ The test folder structure _src/test/java/_ is made up of
  * **utility** - contains Util package that has generic methods that can be reused at component level
  * **testrunner** - contains the RunnerTest java class file that invokes the test
 
-### Other important files and folders
+#### Other important files and folders
 * **pom.xml** - conatins the maven dependencies and plugins required to run this test using selenium, junit and cucumber frameworks
 * **drivers** - folder contains chrome driver executable file required to run the UI test
 * **target** - folder contains compiled files and cucumber test reports
 
-## URLs
+### URLs
 
 https://www.gumtree.com.au/
 
