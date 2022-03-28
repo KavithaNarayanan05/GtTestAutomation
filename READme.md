@@ -5,6 +5,7 @@
 This coding challenge comprises of two tasks - UI Test automation and API Test automation
 
 ##Github Project link
+
 [![js-standard-style](https://img.shields.io/badge/GitHub-JavaProject-brightgreen.svg?style=flat)](https://github.com/KavithaNarayanan05/GtTestAutomation)
 
 ## Setup required
@@ -43,7 +44,7 @@ Using below set of frameworks and libraries, happy-path use-case of Gumtree sear
 * Java
 * Github
 
-The _UiTest.feature_ consists of BDD scenario with parameterization capability to run for different set of values. 
+The _UiTest.feature_ consists of BDD scenario with parameterization capability to run for different set of values.
 
 
 ### 2.API Test Automation
@@ -53,7 +54,7 @@ Using following frameworks and libraries, API endpoint testing has been validate
 * Java
 * Github
 
-The ApiTest.feature contains BDD scenarios to validate the response obtained from the REST API based on search query. 
+The ApiTest.feature contains BDD scenarios to validate the response obtained from the REST API based on search query.
 
 ## Folder Structure
 The test folder structure _src/test/java/_ is made up of

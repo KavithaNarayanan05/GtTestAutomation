@@ -3,6 +3,5 @@ stepdefinitions/UiTestSteps.class
 testrunner/BaseTest.class
 utility/Util.class
 pageobjects/uiTestPage.class
-.DS_Store
 pageobjects/apiTestObjects.class
 testrunner/RunnerTest.class
